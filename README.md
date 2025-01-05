@@ -5,6 +5,7 @@
             To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution using various KPIs and visualizations in Power BI. The aim is to identify key insights and optimization opportunities for improving operational efficiency and business growth.
 
 **Project Steps**
+
 **1] Requirement Gathering / Business Requirement**
             Engaged with stakeholders to understand the business objectives and define the scope of analysis.
 
