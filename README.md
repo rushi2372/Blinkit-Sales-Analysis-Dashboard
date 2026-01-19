@@ -1,4 +1,4 @@
-# Blinkit Sales Data Analysis Dashboard
+# Blinkit Sales Analysis Dashboard
 ![Screenshot 2025-01-05 134438](https://github.com/user-attachments/assets/d2b189cb-fd62-404e-ae65-a728fa38bffb)
 
 **Project Objective**
