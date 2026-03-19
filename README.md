@@ -96,7 +96,7 @@ The **Blinkit Sales Analysis Dashboard** provides stakeholders with an interacti
 - ⭐ Customer satisfaction levels
 - 📦 Inventory distribution patterns
 
-This dashboard supports operational optimization, enhances customer experience, and serves as a foundation for data-driven strategic growth.
+This dashboard supports operational optimization, enhances customer experience, and serves as a foundation for data-driven strategic growth. 
 
 ---
 
